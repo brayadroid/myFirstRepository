@@ -1,0 +1,1 @@
+La orden pago es una tabla que contiene la informaicon respecto a la modalidad la fecha de devengamiento, etc
