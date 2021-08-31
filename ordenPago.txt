@@ -1,3 +1,5 @@
-La orden master es una tabla que contiene la informaicon respecto a la modalidad la fecha de devengamiento, etc.
+
+La orden cobro es una tabla que contiene la informaicon respecto a la modalidad la fecha de devengamiento, etc.
+
 
 -Tal vez podria incluirse que se guarde el receptor del pago
