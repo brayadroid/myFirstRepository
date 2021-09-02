@@ -1,1 +1,3 @@
 En las pensiones existen 5 tramites de pension los cuales son VN, VA, SO, IN, RI
+
+Ultimamente se adiciono un nuevo tramite el cual es para los enfermos terminales asociado a la nomenclatura ET
