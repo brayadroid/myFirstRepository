@@ -1,1 +1,3 @@
 Hola este es mi primer archivo que usare con GIT enhorabuena :)
+
+Ahora ya se conectarme a github mediante https y SSH. bacan!
